@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buzz Movie Selector</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">User Login</string>
+    <string name="title_activity_dashboard">Buzz Movie Dashboard</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_list_view_loader">ListViewLoader</string>
+    <string name="title_activity_movie_suggestion">MovieSuggestion</string>
+</resources>
